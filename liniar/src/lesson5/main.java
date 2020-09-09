@@ -12,5 +12,16 @@ public class main {
         float p = 1.5f;
         double weight = 1.5;
 
+        byte b = 4;
+        System.out.println(b);
+        byte b2 = (byte)256;
+        System.out.println(b2);
+
+        String data = "■ I hate Python, Java and I L0VE C++ ■";
+        String name = "Ex3cutable";
+
+        String surname;
+        surname = "pwn";
+
     }
 }

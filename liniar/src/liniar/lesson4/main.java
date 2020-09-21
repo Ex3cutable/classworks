@@ -1,4 +1,4 @@
-package lesson4;
+package liniar.lesson4;
 
 public class main {
 
